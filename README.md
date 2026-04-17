@@ -1,4 +1,4 @@
-# Algorithmic & Competitive Programming Library
+# Competitive Programming Library
 
 A comprehensive, categorized collection of optimized algorithms and data structures implemented in **C++**. 
 
